@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Final_Dapper
+namespace BookstoreApp
 {
     /// <summary>
     /// Interaction logic for App.xaml

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_Dapper", "Final_Dapper\Final_Dapper.csproj", "{4BB91B93-BEFA-4157-B9EA-D00A5396227D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookstoreApp", "Final_Dapper\BookstoreApp.csproj", "{4BB91B93-BEFA-4157-B9EA-D00A5396227D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{541063AD-E4AC-4A6C-B963-C92EA446994B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4BB91B93-BEFA-4157-B9EA-D00A5396227D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BB91B93-BEFA-4157-B9EA-D00A5396227D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BB91B93-BEFA-4157-B9EA-D00A5396227D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541063AD-E4AC-4A6C-B963-C92EA446994B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541063AD-E4AC-4A6C-B963-C92EA446994B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541063AD-E4AC-4A6C-B963-C92EA446994B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541063AD-E4AC-4A6C-B963-C92EA446994B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
